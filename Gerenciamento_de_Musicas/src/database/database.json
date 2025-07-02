@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Samantha",
+    "music": "Outra",
+    "ATmelhor": true
+  },
+  {
+    "name": "Carlitos",
+    "music": "Do I Wanna Know",
+    "ATmelhor": false
+  },
+  {
+    "name": "Joelma",
+    "music": "Outra",
+    "ATmelhor": true
+  },
+  {
+    "name": "Bartô",
+    "music": "505",
+    "ATmelhor": true
+  },
+  {
+    "name": "Célia",
+    "music": "Do I Wanna Know",
+    "ATmelhor": false
+  },
+  {
+    "name": "ana",
+    "Music": "I Wanna be Yours",
+    "ATmelhor": true
+  },
+  {
+    "name": "Selma",
+    "Music": "505",
+    "ATmelhor": false
+  },
+  {
+    "name": "Luciane",
+    "Music": "Do I Wanna Know",
+    "ATmelhor": true
+  },
+  {
+    "name": "Alice",
+    "Music": "I Wanna be Yours",
+    "ATmelhor": false
+  }
+]
